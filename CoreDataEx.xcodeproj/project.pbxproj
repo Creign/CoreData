@@ -13,6 +13,7 @@
 		C27ED2D521993F6E00158B74 /* CoreDataEx.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C27ED2D321993F6E00158B74 /* CoreDataEx.xcdatamodeld */; };
 		C27ED2D721993F6F00158B74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C27ED2D621993F6F00158B74 /* Assets.xcassets */; };
 		C27ED2DA21993F6F00158B74 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C27ED2D821993F6F00158B74 /* LaunchScreen.storyboard */; };
+		C27ED30521995B6C00158B74 /* ProductsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27ED30421995B6C00158B74 /* ProductsTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C27ED2D621993F6F00158B74 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C27ED2D921993F6F00158B74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C27ED2DB21993F6F00158B74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C27ED30421995B6C00158B74 /* ProductsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductsTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				C27ED2D821993F6F00158B74 /* LaunchScreen.storyboard */,
 				C27ED2DB21993F6F00158B74 /* Info.plist */,
 				C27ED2D321993F6E00158B74 /* CoreDataEx.xcdatamodeld */,
+				C27ED30421995B6C00158B74 /* ProductsTableViewCell.swift */,
 			);
 			path = CoreDataEx;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C27ED2D521993F6E00158B74 /* CoreDataEx.xcdatamodeld in Sources */,
+				C27ED30521995B6C00158B74 /* ProductsTableViewCell.swift in Sources */,
 				C27ED2CF21993F6E00158B74 /* ViewController.swift in Sources */,
 				C27ED2CD21993F6E00158B74 /* AppDelegate.swift in Sources */,
 			);
